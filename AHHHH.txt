@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 how does one intentionaly cause a merge conflict...
+=======
+Changeing this again.
+>>>>>>> another_one
